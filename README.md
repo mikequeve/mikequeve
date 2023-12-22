@@ -4,7 +4,7 @@ _cc_ Michael Vega Bermúdez.
 
 Desarrollador **Front - End** ubicado en Costa Rica.
 
-Como parte del programa de estudio me he especializado en tecnologías como:
+#### Especializado en tecnologías como:
 
 **_HTML5_ - _CSS3_ - _JAVASCRIPT_ - _BOOTSTRAP_ - _WORDPRESS_**.
 

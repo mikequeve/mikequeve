@@ -8,7 +8,7 @@ Desarrollador **Front - End** ubicado en Costa Rica.
 
 **_HTML5_ - _CSS3_ - _JAVASCRIPT_ - _BOOTSTRAP_ - _WORDPRESS_**.
 
-He contribuido en proyectos como ejercicios de prueba para el curso y he desempeñado diferentes roles en estos, desde wireframing y diseño hasta codificación del proyecto.
+He contribuido en proyectos como ejercicios de prueba y he desempeñado diferentes roles en estos, desde wireframing y diseño hasta codificación del proyecto.
 
 #### Proyectos en los que he participado:
 

@@ -15,5 +15,3 @@ He contribuido en proyectos como ejercicios de prueba y he desempeñado diferent
 [Catursantos: Cámara de Turismo de los Santos](https://catursantos.com/).
 
 [Congreso Nacional de Cultivo de Aguacate Costa Rica 2023](http://congresoaguacateina2023.infinityfreeapp.com/).
-
-Como desarrollador he creado un pequeño emprendimiento llamado **[MEDIABOTCR](mediabotcr.com)** donde se puede obtener mayor información sobre proyectos realizados y donde podrá encontrar los diferentes paquetes para creación de sitios web que dispongo actualmente.

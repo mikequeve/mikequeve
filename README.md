@@ -6,6 +6,11 @@
 
 Desarrollador Front-end ubicado en Costa Rica.
 
+### Proyectos en los que he trabajado:
+
+![CÁMARA DE TURISMO DE LOS SANTOS](https://catursantos.com)
+![ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com)
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-quesada-vega)

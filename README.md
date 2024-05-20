@@ -8,8 +8,8 @@ Desarrollador Front-end ubicado en Costa Rica.
 
 ### Proyectos en los que he trabajado:
 
-![CÁMARA DE TURISMO DE LOS SANTOS](https://catursantos.com)
-![ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com)
+[CÁMARA DE TURISMO DE LOS SANTOS](https://catursantos.com) <br><br>
+[ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com)
 
 ## 🌐 Socials:
 

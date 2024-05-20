@@ -1,6 +1,15 @@
 # 💫 About Me:
 
-Hola, mi nombre es:<br><br>Michael Quesada Vega<br>cc Michael Vega Bermúdez.<br><br>Desarrollador Front-end ubicado en Costa Rica.<br><br>Especializado en tecnologías como:<br>HTML5 - CSS3 - JAVASCRIPT - BOOTSTRAP - WORDPRESS - FIGMA - PHOTOSHOP - ILLUSTRATOR - ADOBE XD.<br><br>
+#### Hola, Mi nombre es:
+
+## Michael Quesada Vega
+
+cc. Michael Vega Bermúdez
+Desarrollador Front-end ubicado en Costa Rica.
+
+Especializado en tecnologías como:
+
+HTML5 - CSS3 - JAVASCRIPT - BOOTSTRAP - WORDPRESS - FIGMA - PHOTOSHOP - ILLUSTRATOR - ADOBE XD
 
 ## 🌐 Socials:
 

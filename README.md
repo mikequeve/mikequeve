@@ -9,11 +9,11 @@ functional, dinamic and ease to use websites.
 
 [MIKE.VEGA - FRONTEND DEVELOPER](https://mike-vega.dev)
 
-### Work:
+###Resent Work:
 
-[Villa Noemy](https://villanoemy.com) <br><br>
-[Escuela de Matemáticas Hausdorff](https://escueladematematicahausdorff.com) <br><br>
-[Casa del Deporte](https://casadeporte.com)
+[VILLA NOEMY](https://villanoemy.com) <br><br>
+[ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com) <br><br>
+[CASA DEL DEPORTE CR](https://casadeporte.com)
 
 # 💻 Tech Stack:
 

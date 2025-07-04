@@ -1,30 +1,39 @@
-# 💫 About Me:
+## Hello, I'm:
 
-#### Hola, Mi nombre es:
+# Michael Quesada Vega
 
-## Michael Quesada Vega <br>cc. Michael Vega Bermúdez
+Web Developer focused on Frontend development, passionate about to create
+functional, dinamic and ease to use websites.
 
-Desarrollador Front-end ubicado en Costa Rica.
+### Portfolio website:
 
-### Sitio web personal:
+[MIKE.VEGA - FRONTEND DEVELOPER](https://mike-vega.dev)
 
-[MIKE.VEGA - FRONT-END DEVELOPER](https://mike-vega.vercel.app)
+### Work:
 
-### Proyectos en los que he trabajado:
-
-[CÁMARA DE TURISMO DE LOS SANTOS](https://catursantos.com) <br><br>
-[ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com)
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-quesada-vega)
+[Villa Noemy](https://villanoemy.com) <br><br>
+[Escuela de Matemáticas Hausdorff](https://escueladematematicahausdorff.com) <br><br>
+[Casa del Deporte](https://casadeporte.com)
 
 # 💻 Tech Stack:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 🌐 Socials:
 
----
-
-[![](https://visitcount.itsvg.in/api?id=mikequeve&icon=0&color=3)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/Linkedin%20Profile-blue?)](https://linkedin.com/in/mikequeve)
+[![WhatsApp](https://img.shields.io/badge/Chat%20in%20Whatsapp-green?)](https://api.whatsapp.com/send?phone=50660488396)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-red?style=flat)](mailto:michaelvega46@gmail.com)

@@ -9,7 +9,7 @@ functional, dinamic and ease to use websites.
 
 [MIKE.VEGA - FRONTEND DEVELOPER](https://mike-vega.dev)
 
-###Resent Work:
+### Resent Work:
 
 [VILLA NOEMY](https://villanoemy.com) <br><br>
 [ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com) <br><br>

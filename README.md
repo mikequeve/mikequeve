@@ -11,8 +11,7 @@ functional, dinamic and ease to use websites.
 
 ### Resent Work:
 
-[VILLA NOEMY](https://villanoemy.com) <br><br>
-[ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com) <br><br>
+[VILLA NOEMY](https://villanoemy.com) <br><br>[ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com) <br><br>
 [CASA DEL DEPORTE CR](https://casadeporte.com)
 
 # 💻 Tech Stack:

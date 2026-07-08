@@ -9,11 +9,6 @@ functional, dinamic and ease to use websites.
 
 [MIKE.VEGA - FRONTEND DEVELOPER](https://mike-vega.dev)
 
-### Resent Work:
-
-[ESCUELA DE MATEMÁTICAS HAUSDORFF](https://escueladematematicahausdorff.com) <br><br>
-[CASA DEL DEPORTE CR](https://casadeporte.com)
-
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
